@@ -18,3 +18,16 @@ ao criadas no Serviço Online do Power BI:
     2. Conjunto de Dados.
 * O conjunto de dados é a estrutura que contém os dados transformados, os relacionamentos e as medidas DAX. Ou seja, é nosso Modelo de Dados.
 * Um conjunto de dados em um Workspace pode ser utilizado para criação de diferentes relatórios. Melhor ainda, é possível publicar esses relatórios em diferentes workspace.
+___
+>## Arquitetura ideal
+![Arquiutetura Ideal para Power BI](ArquiteturaIdeal.png)
+
+>### Benefícios desta arquitetura:
+* Separação das camadas de ETL, modelagem de dados e visualização;
+* Redução no tempo de aatualização do conjunto de dados, por deixar o trabalho pesado de transformações no Dataflows
+* Maior facilidade no trabalho em equipe, podendo-se separar as equipes que cuidam de cada camada.
+* Reutulização de modelos e cálculos, reduzindo redundância e manutenção e aumentando a consistência.
+* __Resumindo: uma únida versão da verdade!__
+___
+
+* [Link da vídeo aula](https://www.youtube.com/watch?v=_I2m9ps2xck&list=PLL-6y89GGNdSu9utTLYuzwPGNXQNT0KWm&index=4)
