@@ -9,3 +9,11 @@ ___
 1. Fornecer uma cópia das tabelas de banco de dados aos analistas de negócio;
 2. Centralização e reaproveitamento das tabelas resultantes de transformações pelo Power Query;
 3. Programação de diferentes horários e frequências de atualização de acordo com as entidades definidas em cada Dataflow.
+___
+>## Conjunto de dados compartilhados
+* Ao publicar um arquivo *.PBIX*, duas estruturas s
+ao criadas no Serviço Online do Power BI:
+    1. Relatório;
+    2. Conjunto de Dados.
+* O conjunto de dados é a estrutura que contém os dados transformados, os relacionamentos e as medidas DAX. Ou seja, é nosso Modelo de Dados.
+* Um conjunto de dados em um Workspace pode ser utilizado para criação de diferentes relatórios. Melhor ainda, é possível publicar esses relatórios em diferentes workspace.
