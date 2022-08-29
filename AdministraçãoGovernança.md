@@ -9,6 +9,7 @@ ___
 1. Fornecer uma cópia das tabelas de banco de dados aos analistas de negócio;
 2. Centralização e reaproveitamento das tabelas resultantes de transformações pelo Power Query;
 3. Programação de diferentes horários e frequências de atualização de acordo com as entidades definidas em cada Dataflow.
+![Fluxo de Dados](FluxoDeDados.png)
 ___
 >## Conjunto de dados compartilhados
 * Ao publicar um arquivo *.PBIX*, duas estruturas s
