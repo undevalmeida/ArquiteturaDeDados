@@ -6,7 +6,7 @@
 * Compartilhamento das informações por E-mail (relatório_final.xlsx).
 
 >## Utilizando Power BI na organização
-    Nota-se que não há organização(padrão) para criação dos Dashboards, com isso, para fazer uma correção no final dessa segmentação, é preciso reazer todos os outros anteriores. Fazendo com que haja mais dificuldade para fazer a manutenção.
+    Nota-se que não há organização(padrão) para criação dos Dashboards, com isso, para fazer uma correção no final dessa segmentação, é preciso refazer todos os outros anteriores. Fazendo com que haja mais dificuldade para fazer a manutenção.
 
 ![Utilizando Power BI na organização](SemPadraoDeOrganizacao.png)
 
