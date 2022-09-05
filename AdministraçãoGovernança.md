@@ -29,5 +29,7 @@ ___
 * Reutulização de modelos e cálculos, reduzindo redundância e manutenção e aumentando a consistência.
 * __Resumindo: uma únida versão da verdade!__
 ___
+># Governança
+    A governança de dados é "um sistema de direitos de decisão e responsabilidades para processos relacionados a informações, executados de acordo com os modelos acordados que descrevem quem pode tomar as ações, com quais informações e quando, em que circunstâncias, usando quais métodos". Embora seja chamado de governança de dados, esse nome não é ideal. O foco principal da governança não são os próprios dados, mas o controle do que as pessoas fazem com os dados.
 
 * [Link da vídeo aula](https://www.youtube.com/watch?v=_I2m9ps2xck&list=PLL-6y89GGNdSu9utTLYuzwPGNXQNT0KWm&index=4)
