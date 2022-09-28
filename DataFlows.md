@@ -1,4 +1,5 @@
 ># DataFlows e DataSets
+---
 ## Vantagens - DataFlows (Fluxo de Dados):
 1. Posso reaproveitar as tabelas tratadas para vários Projetos.
 2. Não só eu como outras pessoas também podem reaproveitar.
@@ -9,4 +10,5 @@
 1. Posso reaproveitar meu trabalho para outros Projetos/Dashboards.
 2. Não só eu como outras pessoas também podem reaproveitar.
 3. Reaproveita todas as tabelas já tratadas, todos os cálculos criados(Colunas e medidas), todos os relacionamentos.
+---
 ![](Power%20BI%20-%20DataFlows%20e%20DataSets.png)
