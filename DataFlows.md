@@ -4,7 +4,7 @@
 1. Posso reaproveitar as tabelas tratadas para vários Projetos.
 2. Não só eu como outras pessoas também podem reaproveitar.
 3. Facilita para fazer edição nos projetos(se eu quiser acrescentar uma coluna em uma tabela e tenho 10 projetos, fica muito mais fácil fazer isso 1 vez só do que fazer em 10 arquivos separados)
-4. Funciona como um DAta Warehouse(local onde a empresa guarda todas as tabelas já com tratamentos realizados, de onde os usuários podem importar os dados, sem precisar ter acesso ao banco de dados da empresa)
+4. Funciona como um Data Warehouse(local onde a empresa guarda todas as tabelas já com tratamentos realizados, de onde os usuários podem importar os dados, sem precisar ter acesso ao banco de dados da empresa)
 ---
 ## Vantagens - DataSets (Conjunto de Dados):
 1. Posso reaproveitar meu trabalho para outros Projetos/Dashboards.
