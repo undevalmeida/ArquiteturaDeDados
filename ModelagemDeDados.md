@@ -14,9 +14,12 @@
         
         Mas como consigo criar?
         
-        1. Primeiro passo será duplicar a tabela desejada
-        2. Tratar mantendo apenas as colunas que deseja
+        1. Abrir tabela desejada com Power Query
+        2. Primeiro passo será duplicar a tabela desejada
+        3. Tratar mantendo apenas as colunas que deseja
            1. Página inicial -> Escolher colunas -> selecionar somente as desejadas
-        3. 
+        4. Remover tudo que está repetido.
+           1. Página inicial -> Reduzir Linhas -> Remover Duplicatas.
+        5. Ao finalizar as transformações, fechar e aplicar. 
 ---
 * [Link da Vídeo Aula](https://www.youtube.com/watch?v=hK0iKKhJ16I&list=PLL-6y89GGNdSu9utTLYuzwPGNXQNT0KWm&index=10)
