@@ -2,7 +2,7 @@
 
         No power BI existem dois tipos de modelo de organização de tabelas, independente da sua quantidade, 'Tabela Fato' e a 'Tabela Dimensão".
         
-## Tabela Fato
+## Tabela Dimensão
         Tabela fato é composta por mais de uma tabela com caracteristicas do produto. Essas tabelas podem ter suas caracteristicas vinculadas pela 'ID' do produto ou 'CÓDIGO' do produto, funcionando basicamente como o banco de dados, no qual toda tabela existe um PK(Primary Key ou Chave primária) restringindo o produto a chave.
         Exemplo: 
             Tabela Loja: Características -  Loja, endereço, gerente
